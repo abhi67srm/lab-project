@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar alignment */
+ul.naV1{
+    margin-top: 10px;
+    padding-top: 20px;
+}
+nav.nav2{
+    float: left;
+}
+
+section4.container div.js-img{
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    display: inline;
+
+}
+.section4.container div.js-img img{
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    display: inline;
+
+}
+.section4 div.js-img img{
+    display: inline;
+    margin: 10px 20px auto 10px;
+    padding: 20px 20px;
+    
+}
+.main{
+    width: 960px;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+/* Register section starts here */
+.register{
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.register.container.row.col-lg-6{
+    margin-top: 30px;
+    border: 1px solid #fff;
+}
+.register.container.row.col-lg-6.frm{
+    border: 1px soild #fff;
+    box-shadow: 1px 2px 3px 4px ;
+    background-color: #111;
+}
+
+#des{
+    background-color: rgb(211, 109, 26);
+    box-shadow: 1px 2px 3px 4px;
+}
